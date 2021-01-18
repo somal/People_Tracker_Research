@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  test-task:
+    image: somal/people_tracker_research:latest
+    container_name: test_task_container
+    ports:
+      - 8888:8888
+    volumes:
+      - .:/home/vino
