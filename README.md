@@ -16,3 +16,5 @@ Technical stack:
 - Jupyter Notebook
 - Tensorflow
 - OpenVINO
+
+We final solution works with ~20 fps on MacBook Pro
